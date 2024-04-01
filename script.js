@@ -1,6 +1,3 @@
-// The initial text string to display
-const txtFull = "design, brand, create, market";
-
 // Splitting the text into an array of characters
 let currentServiceIndex = 0;
 // Array of services to cycle through
